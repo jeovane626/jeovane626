@@ -171,8 +171,4 @@ O projeto conta com funcionalidades como:
 </div>
 ```
 
-### ⚠️ Só falta uma configuração
-
-A **cobrinha de contribuições** não aparece apenas colocando o código no README. Ela precisa ser gerada por uma **GitHub Action** dentro do repositório do seu perfil.
-
 O restante já pode ser colocado no seu `README.md`. Depois que você fizer isso, posso te ensinar a criar o repositório especial **`jeovane626/jeovane626`**, colocar esse README nele e **configurar a Snake Animation passo a passo**.
